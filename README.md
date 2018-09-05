@@ -1,2 +1,2 @@
 # ZZZZZZZZ
-Strave.msa
+STEAVE.msa
